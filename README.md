@@ -1,1 +1,3 @@
-# class_assignments
+Class Assignments
+
+This is the class assignemnts I did duriing......
